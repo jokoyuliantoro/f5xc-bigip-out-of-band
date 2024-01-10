@@ -10,4 +10,5 @@ Architecture:
 
 03_incoming_from_f5xc => XC forwards the simulated request to BIG-IP and is received by this iRule to get the simulated response and send it as the reply.
 
-![image](https://github.com/jokoyuliantoro/f5xc-bigip-out-of-band/assets/11230277/9c2486de-1059-475c-ad50-5246e5a6755e)
+![image](https://github.com/jokoyuliantoro/f5xc-bigip-out-of-band/assets/11230277/22aec689-a26e-4978-9a93-01c89c692036)
+
