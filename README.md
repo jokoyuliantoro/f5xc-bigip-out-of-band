@@ -9,3 +9,5 @@ Architecture:
 02_from_log_converter_to_f5xc => The 01_ iRule sends an HTTP request but XC receives only HTTPS. Hence, there is an HTTP-to-HTTPS VS with pool member pointing to XC.
 
 03_incoming_from_f5xc => XC forwards the simulated request to BIG-IP and is received by this iRule to get the simulated response and send it as the reply.
+
+![image](https://github.com/jokoyuliantoro/f5xc-bigip-out-of-band/assets/11230277/9c2486de-1059-475c-ad50-5246e5a6755e)
