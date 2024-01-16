@@ -2,7 +2,7 @@ F5 XC with Out-of-Band BIG-IP.
 
 Architecture:
 
-![image](https://github.com/jokoyuliantoro/f5xc-bigip-out-of-band/assets/11230277/01abff86-7946-4b54-bd51-63322adb1ab6)
+![image](https://github.com/jokoyuliantoro/f5xc-bigip-out-of-band/assets/11230277/ed95a902-72ab-4a9c-a58e-ebbea3d69e3d)
 
 01_incoming_xml_to_log_converter => The injector upload XML trace to BIG-IP, parse it, construct simulated request+response and send the simulated request as HTTP request via sideband.
 
